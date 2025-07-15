@@ -1,0 +1,1 @@
+console.log("Dự án Node.js đang chạy với lệnh npm start!");
